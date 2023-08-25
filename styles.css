@@ -1,4 +1,7 @@
-
+img{
+	border-radius:50%;
+	margin-left:50px;
+}
 .self .img{
 	position:absolute;
 	left:0;
